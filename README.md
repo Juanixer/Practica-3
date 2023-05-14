@@ -30,18 +30,7 @@ _Editor de código:_
 IntetlliJ IDEA 2021.2.1 (Community Edition)
 ```
 
-## Comandos para comprobar y ejecutar el programa ⚙️
 
-_En primer lugar se deberá comprobar que compila correctamente mediante el comando que ofrece nuestro makefile.
-Tenemos que estar situados en el directorio donde esta el makefile_
-
-```
-make compilar  
-```
-_Una vez compilado el archivo y observado que todo funciona bien utilizamos otro comando establecido en el makefile para ejecutar el programa_
-```
-make ejecutar
-```
 
 
 
